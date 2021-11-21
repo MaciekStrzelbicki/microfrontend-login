@@ -1,0 +1,14 @@
+.awcache
+.storybook
+assets
+public
+src
+.babelrc
+.jestCache
+*.js
+*.md
+*.ts
+*.properties
+*.tgz
+tsconfig.json
+*.map
